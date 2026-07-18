@@ -34,7 +34,7 @@ I'm a Junior Penetration Tester with 1+ year of hands-on web application securit
 
 ## 🌐 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- 💼 [LinkedIn](https://www.linkedin.com/in/el-nem)
 - 🐦 [X (Twitter)](https://x.com/El_Nem14)
 
 

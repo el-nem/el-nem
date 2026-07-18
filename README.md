@@ -30,7 +30,7 @@ I'm a freelance penetration tester and bug bounty hunter based in Egypt, focused
 
 ## 📂 Featured Repositories
 
-- **[security-writeups](https://github.com/el-nem/security-writeups)** — PortSwigger lab writeups and vulnerability class breakdowns
+- **[writeups](https://github.com/el-nem/security-writeups)** — PortSwigger lab writeups and vulnerability class breakdowns
 
 ---
 
@@ -39,6 +39,4 @@ I'm a freelance penetration tester and bug bounty hunter based in Egypt, focused
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 - 🐦 [X (Twitter)](https://x.com/YOUR-X-HANDLE)
 
----
 
-*Currently improving my English (targeting C1) and learning Spanish as part of my move toward the European job market.*

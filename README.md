@@ -14,6 +14,10 @@ I'm a Junior Penetration Tester with 1+ year of hands-on web application securit
 
 ---
 
+## 📜 Certifications
+- **CAPT** (Certified Associate Penetration Tester) — Hackviser, Feb 2026
+  [Verify](https://hackviser.com/verify?id=HV-CAPT-DHJQQT7K)
+
 ## 🛠 Skills & Focus Areas
 
 | Domain | Details |

@@ -31,7 +31,6 @@ I'm a freelance penetration tester and bug bounty hunter based in Egypt, focused
 ## 📂 Featured Repositories
 
 - **[security-writeups](https://github.com/el-nem/security-writeups)** — PortSwigger lab writeups and vulnerability class breakdowns
-- **[ElNem](https://github.com/el-nem/elnem)** — Recon automation framework built on Bash and GitHub Actions
 
 ---
 
